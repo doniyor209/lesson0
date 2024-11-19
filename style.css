@@ -1,0 +1,25 @@
+.a{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 76px;
+}
+h1{
+    color: black;
+    font-size: 50px;
+    margin-top: 128px+;
+}
+.c{
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    color: white;
+    margin-top: 128px;
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+}
